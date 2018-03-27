@@ -1,6 +1,6 @@
 # Leaflet.TileLayer.MIERUNE  
 
-Leaflet.TileLayer.MIERUNE is a Leaflet plugin for creating tile layers from MIERUNE MAP. (Leaflet v1.x)
+Leaflet.TileLayer.MIERUNE is a Leaflet plugin for creating tile layers from [MIERUNE MAP](https://mierune.co.jp/tile.html). (Leaflet v1.x)
 
 <br>
 
@@ -12,7 +12,7 @@ Leaflet.TileLayer.MIERUNE is a Leaflet plugin for creating tile layers from MIER
 
 ### Demo  
 
-[MIERUNE MAP](https://tile.mierune.co.jp/)
+[MIERUNE MAP](https://tile.mierune.co.jp)
 
 <br>
 
